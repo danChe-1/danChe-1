@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! <br>🌐 Name's Daniel, and I'm a web-developer. <br>🎓 Currently studying: React, Next, Astro.<br>👨‍💻 Be my guest and look different projects that I've completed.
+👋 Hey there! <br>🌐 Name's Daniel, and I'm a web-developer. <br>🎓 Currently studying: React, Next, Astro.<br>👨‍💻 Be my guest and check out different projects that I've completed.
 
 
 # 💻 Tech Stack:
